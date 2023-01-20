@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Levi de Oliveira Costa
+-Profissão: Engenheiro de Qualidade de Software
+-Cidade: Fortaleza
+-O que faz nas horas vaga: Academia, jogos eletrônicos e viagens
+-Feedback sobre o curso Qualidade de Software: O curso tem sido muito agregador, principalmente nos primeiros módulos a respeito da gestão de qualidade. Inclusive, já iniciei a aplicar alguns fundamentos absorvidos na prática
+-Feedback sobre a plataforma de estudo da EBAC: No geral, muito interativa, só poderíamos ter a inclusão de mais conteúdos opcionais.
+
+Obrigado!!!
+
+
